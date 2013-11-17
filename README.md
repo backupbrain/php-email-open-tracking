@@ -1,4 +1,4 @@
-Email Relay with PHP
+Email Open Tracking in PHP
 =============================
 This code shows how to use HTML emails and PHP/MySQL to track
 email opens and clickthroughs 
